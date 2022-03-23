@@ -1,4 +1,4 @@
-## Olá, eu sou a Victor Mota, programador java!
+## Olá, eu sou o Victor Mota, programador java!
 <div align="center">
   <a href="https://github.com/jasonluizwf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jasonluizwf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

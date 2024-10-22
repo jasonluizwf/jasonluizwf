@@ -19,10 +19,9 @@
 
 </div>
 
-##
+## Redes Sociais
 
 <div align="center">
-    Minhas Redes Sociais
     ##
   <a href="https://stackoverflow.com/users/23273618" target="_blank">
     <img src="https://img.shields.io/badge/-StackOverflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank">

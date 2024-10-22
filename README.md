@@ -18,9 +18,9 @@
 
 ## Minhas Estatísticas no GitHub:
   
-![Victor Mota's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula)
+![Victor Mota's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonluizwf&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonluizwf&layout=compact&theme=dracula)
 
 ## Tecnologias que uso:
   
@@ -31,8 +31,8 @@
 
 ## Meus Troféus:
   
-![Trophy](https://github-profile-trophy.vercel.app/?username=seu-usuario&theme=dracula)
+![Trophy](https://github-profile-trophy.vercel.app/?username=jasonluizwf&theme=dracula)
 
 ## Gráfico de Atividades:
   
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=seu-usuario&theme=dracula)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jasonluizwf&theme=dracula)

@@ -2,9 +2,10 @@
 
 ## Stack
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jasonluizwf&show_icons=true&theme=dracula" alt="Victor Mota's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonluizwf&layout=compact&theme=dracula" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jasonluizwf&show_icons=true&theme=dracula" alt="Victor Mota's GitHub stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonluizwf&layout=compact&theme=dracula" alt="Top Langs" width="400" />
 </div>
+
 
 ## Minhas Redes Sociais:
 <div align="center">

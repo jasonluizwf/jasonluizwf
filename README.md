@@ -3,7 +3,7 @@
 ## Minhas Estatísticas no GitHub:
 <div align="center">
   
-  ![Victor Mota's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonluizwf&show_icons=true&theme=radical)
+  ![Victor Mota's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonluizwf&show_icons=true&theme=cobalt)
   
 </div>
 
@@ -37,7 +37,7 @@
 ## Principais Linguagens:
 <div align="center">
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonluizwf&layout=compact&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonluizwf&layout=compact&theme=cobalt)
 
 </div>
 
@@ -59,13 +59,13 @@
 ## Meus Troféus:
 <div align="center">
   
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=jasonluizwf&theme=radical)
+  ![Trophy](https://github-profile-trophy.vercel.app/?username=jasonluizwf&theme=cobalt)
   
 </div>
 
 ## Gráfico de Atividades:
 <div align="center">
   
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jasonluizwf&theme=radical)
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jasonluizwf&theme=cobalt)
   
 </div>

@@ -2,10 +2,13 @@
 
 
 ## Minhas Estatísticas no GitHub:
-  
 <div align="center">
-    ![Victor Mota's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonluizwf&show_icons=true&theme=dracula)
+  
+  ![Victor Mota's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonluizwf&show_icons=true&theme=dracula)
+  
 </div>
+
+![Victor Mota's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonluizwf&show_icons=true&theme=dracula)
 <div align="center">
   <a href="https://instagram.com/victor_luizmt" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">

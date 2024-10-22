@@ -66,6 +66,6 @@
 ## Gráfico de Atividades:
 <div align="center">
   
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jasonluizwf&bg_color=0d1117&color=58a6ff&line=2496ED&point=f0a500&area=true&hide_border=true)
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jasonluizwf&bg_color=0d1117&color=58a6ff&line=2496ED&point=f0a500&area=true&hide_border=true&custom_title=Jogo%20da%20Cobrinha)
 
 </div>

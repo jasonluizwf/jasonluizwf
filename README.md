@@ -1,5 +1,9 @@
 ## Olá, eu sou o Victor Mota! 👋
 
+
+## Minhas Estatísticas no GitHub:
+  
+![Victor Mota's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonluizwf&show_icons=true&theme=dracula)
 <div align="center">
   
   <a href="https://instagram.com/victor_luizmt" target="_blank">
@@ -16,9 +20,6 @@
   
 </div>
 
-## Minhas Estatísticas no GitHub:
-  
-![Victor Mota's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonluizwf&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonluizwf&layout=compact&theme=dracula)
 
@@ -28,7 +29,11 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 ## Meus Troféus:
   
 ![Trophy](https://github-profile-trophy.vercel.app/?username=jasonluizwf&theme=dracula)

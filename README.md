@@ -1,4 +1,4 @@
-## Olá, eu sou o Victor Mota! 👋
+# Olá, eu sou o Victor Mota! 👋
 
 ## Stack
 <div align="center">
@@ -48,14 +48,14 @@
   </a>
 </div>
 
-## Troféus:
+## Troféus
 <div align="center">
   
   ![Trophy](https://github-profile-trophy.vercel.app/?username=jasonluizwf&theme=dracula)
   
 </div>
 
-## Gráfico de Atividades:
+## Atividades:
 <div align="center">
   
   ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jasonluizwf&theme=dracula)

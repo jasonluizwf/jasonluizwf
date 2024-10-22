@@ -57,6 +57,6 @@
 ## Atividades:
 <div align="center">
   
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jasonluizwf&theme=hacker)
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jasonluizwf&theme=default)
   
 </div>

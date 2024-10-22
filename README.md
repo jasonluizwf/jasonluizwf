@@ -1,15 +1,20 @@
-## <div style="display: inline-block; border-right: 2px solid; padding-right: 5px; animation: typing 2s steps(10, end), blink .75s step-end infinite;">Olá, eu sou o Victor Mota! 👋</div>
+## Olá, eu sou o Victor Mota! 👋
 
-<style>
-@keyframes typing {
-  from { width: 0; }
-  to { width: 100%; }
-}
+## Minhas Estatísticas e Principais Linguagens:
+<div align="center">
 
-@keyframes blink {
-  50% { border-color: transparent; }
-}
-</style>
+<table>
+  <tr>
+    <td>
+      ![Victor Mota's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonluizwf&show_icons=true&theme=dracula)
+    </td>
+    <td>
+      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonluizwf&layout=compact&theme=dracula)
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ## Minhas Redes Sociais:
 <div align="center">
@@ -36,23 +41,6 @@
   <a href="https://www.linkedin.com/in/victor-luiz-da-silva-mota-3872521ab/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-</div>
-
-## Minhas Estatísticas e Principais Linguagens:
-
-<div align="center">
-
-<table>
-  <tr>
-    <td>
-      ![Victor Mota's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonluizwf&show_icons=true&theme=dracula)
-    </td>
-    <td>
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonluizwf&layout=compact&theme=dracula)
-    </td>
-  </tr>
-</table>
-
 </div>
 
 ## Tecnologias que uso:

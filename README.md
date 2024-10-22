@@ -9,8 +9,20 @@
 
 ## Minhas Redes Sociais:
 <div align="center">
+  <a href="https://stackoverflow.com/users/23273618" target="_blank">
+    <img src="https://img.shields.io/badge/-StackOverflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank">
+  </a>
+
+  <a href="https://x.com/tiaopedreiro38" target="_blank">
+    <img src="https://img.shields.io/badge/-X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" target="_blank">
+  </a>
+  
   <a href="https://instagram.com/victorluizmt" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  
+  <a href="https://discord.com/users/tiao_pedreiro" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
   </a>
   
   <a href="mailto:victorluizfacul@gmail.com">

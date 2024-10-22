@@ -17,10 +17,8 @@
   <a href="https://www.linkedin.com/in/victor-luiz-da-silva-mota-3872521ab/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
+
   
-</div>
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonluizwf&layout=compact&theme=dracula)
 
 ## Tecnologias que uso:
@@ -41,3 +39,7 @@
 ## Gráfico de Atividades:
   
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jasonluizwf&theme=dracula)
+
+  
+</div>
+

@@ -2,8 +2,8 @@
 
 ## Stack
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jasonluizwf&show_icons=true&theme=dracula" alt="Victor Mota's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonluizwf&layout=compact&theme=dracula" alt="Top Langs" width="354" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jasonluizwf&show_icons=true&theme=dark" alt="Victor Mota's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonluizwf&layout=compact&theme=dark" alt="Top Langs" width="354" />
 </div>
 <div align="center">
   
@@ -50,13 +50,13 @@
 ## Troféus
 <div align="center">
   
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=jasonluizwf&theme=dracula)
+  ![Trophy](https://github-profile-trophy.vercel.app/?username=jasonluizwf&theme=dark)
   
 </div>
 
 ## Atividades:
 <div align="center">
   
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jasonluizwf&theme=dracula)
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jasonluizwf&theme=dark)
   
 </div>

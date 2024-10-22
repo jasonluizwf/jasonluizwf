@@ -1,11 +1,15 @@
-## Olá, eu sou o Victor Mota! 👋
+## <div style="display: inline-block; border-right: 2px solid; padding-right: 5px; animation: typing 2s steps(10, end), blink .75s step-end infinite;">Olá, eu sou o Victor Mota! 👋</div>
 
-## Minhas Estatísticas no GitHub:
-<div align="center">
-  
-  ![Victor Mota's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonluizwf&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f0a500&border_color=30363d)
-  
-</div>
+<style>
+@keyframes typing {
+  from { width: 0; }
+  to { width: 100%; }
+}
+
+@keyframes blink {
+  50% { border-color: transparent; }
+}
+</style>
 
 ## Minhas Redes Sociais:
 <div align="center">
@@ -34,10 +38,20 @@
   </a>
 </div>
 
-## Principais Linguagens:
+## Minhas Estatísticas e Principais Linguagens:
+
 <div align="center">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonluizwf&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d)
+
+<table>
+  <tr>
+    <td>
+      ![Victor Mota's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonluizwf&show_icons=true&theme=dracula)
+    </td>
+    <td>
+      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonluizwf&layout=compact&theme=dracula)
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -59,13 +73,13 @@
 ## Meus Troféus:
 <div align="center">
   
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=jasonluizwf&theme=onestar)
+  ![Trophy](https://github-profile-trophy.vercel.app/?username=jasonluizwf&theme=dracula)
   
 </div>
 
 ## Gráfico de Atividades:
 <div align="center">
   
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jasonluizwf&bg_color=0d1117&color=58a6ff&line=2496ED&point=f0a500&area=true&hide_border=true&custom_title=Jogo%20da%20Cobrinha)
-
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jasonluizwf&theme=dracula)
+  
 </div>

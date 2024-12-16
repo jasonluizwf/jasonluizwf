@@ -3,7 +3,6 @@
 ## Stack
 <div align="center">
   <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/675f46e0ecc889bb0dd71dfd?variant=dark" alt="roadmap.sh"/></a>
-  [![roadmap.sh](https://roadmap.sh/card/wide/675f46e0ecc889bb0dd71dfd?variant=dark)](https://roadmap.sh)
   <img src="https://github-readme-stats.vercel.app/api?username=jasonluizwf&show_icons=true&theme=dark" alt="Victor Mota's GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonluizwf&layout=compact&theme=dark" alt="Top Langs" width="354" />
 </div>
